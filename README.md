@@ -1,7 +1,7 @@
 # ดาวโหลด Mod THE SIMS 4 DEMO ภาษาไทยฟรี 2023
 ## MOD ไทยสำหรับการทดลองใช้ 
 
-# อัพเดทเมือ 3 สิงหาคม 2023 รองรับภาค Horse Ranch
+# อัพเดทเมือ 18 ตุลาคม 2023 รองรับภาค Horse Ranch
 ![GROW_DEMO_Simscolony](TS4_Pack-Art_HorseRanch_EN.png)
 
 - อัพเดทเพิ่มเติม Social Bunny
@@ -18,7 +18,6 @@
 
 | DETAILE   | THE SIMS 4 Download MOD |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2023](https://github.com/simscolony/TS4THDEMO/blob/master/%5BSIMSCOLONY%5D_SIMS4_TH_2023.package) |
 |curseforge MOD ภาษาไทย   | [curseforge simscolony](https://www.curseforge.com/sims4/mods/simscolony-translation-thai-localization-thailand) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
