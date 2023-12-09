@@ -2,7 +2,7 @@
 ## MOD ไทยสำหรับการทดลองใช้ 
 
 # อัพเดทเมือ 9 ธันวาคม 2023 รองรับภาค For Rent
-![For Rent_DEMO_Simscolony](https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/409370950_909270843942484_6293995270336280276_n.jpg?stp=dst-jpg_p526x296&_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_ohc=2knBdV9tS2UAX9K_qjo&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfARl56oWlxarkkXtHK-6x7k6ShLt-2IQyxXdL2azzAAzA&oe=657A2CAB)
+![For Rent_DEMO_Simscolony](https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/409298582_909275307275371_9160976677219903409_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=3635dc&_nc_ohc=nO5Eun80qaMAX9zaBhl&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfDXVcRVyGeK31NyMnVMmFWK2A5653FV8BkH4cY7ZrGnZQ&oe=657A1369)
 
 - อัพเดทเพิ่มเติม Social Bunny
 - ระบบการเรียนใหม่ของ High School Years
