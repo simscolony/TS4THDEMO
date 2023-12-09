@@ -1,8 +1,8 @@
 # ดาวโหลด Mod THE SIMS 4 DEMO ภาษาไทยฟรี 2023
 ## MOD ไทยสำหรับการทดลองใช้ 
 
-# อัพเดทเมือ 18 ตุลาคม 2023 รองรับภาค Horse Ranch
-![GROW_DEMO_Simscolony](TS4_Pack-Art_HorseRanch_EN.png)
+# อัพเดทเมือ 9 ธันวาคม 2023 รองรับภาค For Rent
+![For Rent_DEMO_Simscolony](https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/409370950_909270843942484_6293995270336280276_n.jpg?stp=dst-jpg_p526x296&_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_ohc=2knBdV9tS2UAX9K_qjo&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfARl56oWlxarkkXtHK-6x7k6ShLt-2IQyxXdL2azzAAzA&oe=657A2CAB)
 
 - อัพเดทเพิ่มเติม Social Bunny
 - ระบบการเรียนใหม่ของ High School Years
@@ -18,6 +18,7 @@
 
 | DETAILE   | THE SIMS 4 Download MOD |
 | ------------- | ------------- |
+|curseforge MOD ภาษาไทย   | [Github simscolony](https://github.com/simscolony/TS4THDEMO/blob/master/%5BSIMSCOLONY%5D_SIMS4_THAI_2023.package) |
 |curseforge MOD ภาษาไทย   | [curseforge simscolony](https://www.curseforge.com/sims4/mods/simscolony-translation-thai-localization-thailand) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
@@ -107,8 +108,12 @@
 | 44.Moonlight Chic Kit|  100%**| 
 | 45.Little Campers Kit | 100%**| 
 | 46.The Sims™ 4 Werewolves | 43.38%| 
-| 47.The Sims™ 4 high school years | 10.38%| 
-| 48.The Sims™ 4 Growing Todther | 7.5%| 
+| 47.The Sims™ 4 high school years | 16.38%| 
+| 48.The Sims™ 4 Growing Todther | 17.5%| 
+| 49.The Sims™ 4 Ho | 18.76%| 
+| 50.The Sims™ 4 HORSE RANCH | 9.38%***
+| 51.The Sims™ 4 Home Chef Hustle | 8.37%***
+| 52.The Sims™ 4 For Rent | 13.78%***
 
 
 ![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
