@@ -18,7 +18,6 @@
 
 | DETAILE   | THE SIMS 4 Download MOD |
 | ------------- | ------------- |
-|curseforge MOD ภาษาไทย   | [Github simscolony](https://github.com/simscolony/TS4THDEMO/blob/master/%5BSIMSCOLONY%5D_SIMS4_THAI_2023.package) |
 |curseforge MOD ภาษาไทย   | [curseforge simscolony](https://www.curseforge.com/sims4/mods/simscolony-translation-thai-localization-thailand) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.github.io)|
 
