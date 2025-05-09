@@ -61,50 +61,28 @@
 |03.Outdoor Retreat Game Pack |99%|
 |04.Get to Work Expantion| 99%|
 |05.Luxury Party Stuff |99%|
-|06.Perfect Patio Stuff| 99%
-|
-|07.Day Spa Game Pack| 99%
-|
-|08.Cool Kitchen Stuff| 99%
-|
-|09.Spooky Stuff |99%
-|
-|10.Get Together Expantion |99%
-|
-|11.Movie Hangout Stuff |99%
-|
-|12.Romantic Garden Stuff |99%
-|
-|13.Dine Out Game Pack| 99%
-|
-|14.Kids Room Stuff| 99%
-|
-|15.Backyard Stuff| 99%
-|
-16.City Living Expantion| 99%
-|
-17.Vintage Glamour Stuff| 99%
-|
-|18.Vampires Game Pack| 99%
-|
-|19.Bowling Stuff| 99%
-|
-|20.Parenthood Game Pack| 99%
-|
-|21.Fitness Stuff |99%
-|
-|22.Toddlers Stuff| 99%
-|
-|23.Cats and Dogs Expantion| 99%
-|
-|24.Laundry Day Stuff| 99%
-|
-|25.Jungle Adventure Game Pack |99%
-|
-26.My First Pet Stuff| 99%
-|
-|27.Seasons Expantion |99%
-|
+|06.Perfect Patio Stuff| 99%|
+|07.Day Spa Game Pack| 99%|
+|08.Cool Kitchen Stuff| 99%|
+|09.Spooky Stuff |99%|
+|10.Get Together Expantion |99%|
+|11.Movie Hangout Stuff |99%|
+|12.Romantic Garden Stuff |99%|
+|13.Dine Out Game Pack| 99%|
+|14.Kids Room Stuff| 99%|
+|15.Backyard Stuff| 99%|
+16.City Living Expantion| 99%|
+|17.Vintage Glamour Stuff| 99%|
+|18.Vampires Game Pack| 99%|
+|19.Bowling Stuff| 99%|
+|20.Parenthood Game Pack| 99%|
+|21.Fitness Stuff |99%|
+|22.Toddlers Stuff| 99%|
+|23.Cats and Dogs Expantion| 99%|
+|24.Laundry Day Stuff| 99%|
+|25.Jungle Adventure Game Pack |99%|
+|26.My First Pet Stuff| 99%|
+|27.Seasons Expantion |99%|
 |28.Get Famous Expantion| 99%
 |
 |29.StrangerVille Game Pack| 99%
@@ -205,24 +183,15 @@
 |
 |77.Urban Homage Kits| 99%
 |
-|78.Party Essential Kits| 99%
-|
-|79.Riviera Retreat Kits| 99%
-|
-||80.Cozy Bistro Kits |99%
-|
-|81.Lovestruck Expansion |99%
-|
-|82.Artist Studio Kits |99%
-|
-|83.Storybook Nursery Kits |99%
-|
-|84.Life and Death Expansion |100%**
-|
-|85.Bussness And Hobbies Expansion |100%**
-|
-|86.Restoration Workshop |99%
-|
+|78.Party Essential Kits| 99%|
+|79.Riviera Retreat Kits| 99%|
+|80.Cozy Bistro Kits |99%|
+|81.Lovestruck Expansion |99%|
+|82.Artist Studio Kits |99%|
+|83.Storybook Nursery Kits |99%|
+|84.Life and Death Expansion |100%**|
+|85.Bussness And Hobbies Expansion |100%**|
+|86.Restoration Workshop |99%|
 |87.Golden Years |99%|
 |88.Kitchen Clutter Kits |99%|
 
