@@ -83,106 +83,56 @@
 |25.Jungle Adventure Game Pack |99%|
 |26.My First Pet Stuff| 99%|
 |27.Seasons Expantion |99%|
-|28.Get Famous Expantion| 99%
-|
-|29.StrangerVille Game Pack| 99%
-|
-|30.Island Living Expantion| 99%
-|
-|31.Moschino Stuff |99%
-|
-|32.Realm of Magic Game Pack |99%
-|
-|33.Discover University Expantion| 99%
-|
-|34.Tiny Living Stuff| 99%
-|
-|35.Eco Lifestyle Expantion|99%
-|
-|36.Nifty Knitting Stuff| 99%
-|
-|37.Star Wars: Journey to Batuu Game Pack |99%
-|
-|38.Snowy Escape Expantion| 99%
-|
-|39.Paranormal Stuff |99%
-|
-|40.Throwback Fit Kits |99%
-|
-|41.Country Kitchen Kits| 99%
-|
-|42.Bust the Dust Kits| 99%
-|
-|43.Courtyard Oasis Kits |99%
-|
-|44.Dream Home Decorator Kits |99%
-|
-|45.Cottage Living Kits |99%
-|
-|46.Industrial Loft Kits |99%
-|
-|47.Fashion Street Kits |99%
-|
-|48.Incheon Arrivals Kits |99%
-|
-|49.Blooming Rooms Kits |99%
-|
-|50.Modern Menswear Kits| 99%
-|
-|51.Carnaval Streetwear Kits |99%
-|
-|52.My Wedding Stories Game Pack| 99%
-|
-|53.Decor to the Max Kits| 99%
-|
-|54.Moonlight Chic Kits |99%
-|
-|55.Little Campers Kits |99%
-|
-|56.Werewolves Game Pack |99%
-|
-|57.High Shcool Years Expansion| 99%
-|
-|58.First Fits Kits| 99%
-|
-|59.Desert Luxe Kits |99%
-|
-|60.Everyday Clutter Kits |99%
-|
-|61.Pastel Pop Kits |99%
-|
-|62.Simtimates Kits| 99%
-|
-|63.Bathroom Clutter Kits| 99%
-|
-|64.Growing Together Expansion |99%
-|
-|65.Greenhouse Haven Kits| 99%
-|
-|66.Basement Treasures Kits |99%
-|
-|67.Grunge Revival Kits |99%
-|
-|68.Book Nook Kits Kits |99%
-|
-|69.Horse Ranch Expansion |99%
-|
-|70.Modern Luxe Kits |99%
-|
-|71.Poolside Splash Kits Kits |99%
-|
-|72.Home Chef Hustle Stuff Pack| 99%
-|
-|73.For Rent Expansion |99%
-|
-|74.Castle Estate Kits Kits |99%
-|
-|75.Goth Galore Kits Kits| 99%
-|
-|76.Crystal Creations Stuff| 99%
-|
-|77.Urban Homage Kits| 99%
-|
+|28.Get Famous Expantion| 99%|
+|29.StrangerVille Game Pack| 99%|
+|30.Island Living Expantion| 99%|
+|31.Moschino Stuff |99%|
+|32.Realm of Magic Game Pack |99%|
+|33.Discover University Expantion| 99%|
+|34.Tiny Living Stuff| 99%|
+|35.Eco Lifestyle Expantion|99%|
+|36.Nifty Knitting Stuff| 99%|
+|37.Star Wars: Journey to Batuu Game Pack |99%|
+|38.Snowy Escape Expantion| 99%|
+|39.Paranormal Stuff |99%|
+|40.Throwback Fit Kits |99%|
+|41.Country Kitchen Kits| 99%|
+|42.Bust the Dust Kits| 99%|
+|43.Courtyard Oasis Kits |99%|
+|44.Dream Home Decorator Kits |99%|
+|45.Cottage Living Kits |99%|
+|46.Industrial Loft Kits |99%|
+|47.Fashion Street Kits |99%|
+|48.Incheon Arrivals Kits |99%|
+|49.Blooming Rooms Kits |99%|
+|50.Modern Menswear Kits| 99%|
+|51.Carnaval Streetwear Kits |99%|
+|52.My Wedding Stories Game Pack| 99%|
+|53.Decor to the Max Kits| 99%|
+|54.Moonlight Chic Kits |99%|
+|55.Little Campers Kits |99%|
+|56.Werewolves Game Pack |99%|
+|57.High Shcool Years Expansion| 99%|
+|58.First Fits Kits| 99%|
+|59.Desert Luxe Kits |99%|
+|60.Everyday Clutter Kits |99%|
+|61.Pastel Pop Kits |99%|
+|62.Simtimates Kits| 99%|
+|63.Bathroom Clutter Kits| 99%|
+|64.Growing Together Expansion |99%|
+|65.Greenhouse Haven Kits| 99%|
+|66.Basement Treasures Kits |99%|
+|67.Grunge Revival Kits |99%|
+|68.Book Nook Kits Kits |99%|
+|69.Horse Ranch Expansion |99%|
+|70.Modern Luxe Kits |99%|
+|71.Poolside Splash Kits Kits |99%|
+|72.Home Chef Hustle Stuff Pack| 99%|
+|73.For Rent Expansion |99%|
+|74.Castle Estate Kits Kits |99%|
+|75.Goth Galore Kits Kits| 99%|
+|76.Crystal Creations Stuff| 99%|
+|77.Urban Homage Kits| 99%|
 |78.Party Essential Kits| 99%|
 |79.Riviera Retreat Kits| 99%|
 |80.Cozy Bistro Kits |99%|
