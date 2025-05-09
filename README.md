@@ -29,6 +29,7 @@
 -[facebook.com/SimsColony/](https://www.facebook.com/SimsColony)
 
 
+<img src="https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4_ElectronicArts_S2_1200x1600-ceadc3bd1e6f885ad64d9f115f51f5c0" >
 -------------------------------------------
 # การลงไฟล์
 1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
@@ -166,7 +167,7 @@
 # # ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
 
 # ลิขสิทธิ์งานภายใต้การคุ้มครองกฏหมายลิขสิทธิ์ไทย กรมทรัพย์สินทางปัญญา
-![TS4THDEMO](hhttps://i.imgur.com/NRrIqrT.jpg)
+
 
 # การใช้งานโปรแกรมภายใต้กฏอนุญาติ 
 ## http://cdn-assets-ts4.pulse.ea.com/Guide/TS4_Custom_Content_Guide.zip
