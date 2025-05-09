@@ -57,15 +57,10 @@
 | ภาคที่รองรับ   | เปอร์เซ็นการแปล|
 | ------------- | ------------- |
 | 01.Sims 4 |99.99% *last Update  9-5-2025|
-|
-|02.Holiday Celebration Pack| 99%
-|
-|03.Outdoor Retreat Game Pack |99%
-|
-|04.Get to Work Expantion| 99%
-|
-|05.Luxury Party Stuff |99%
-|
+|02.Holiday Celebration Pack| 99%|
+|03.Outdoor Retreat Game Pack |99%|
+|04.Get to Work Expantion| 99%|
+|05.Luxury Party Stuff |99%|
 |06.Perfect Patio Stuff| 99%
 |
 |07.Day Spa Game Pack| 99%
