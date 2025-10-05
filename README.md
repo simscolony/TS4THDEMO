@@ -1,7 +1,7 @@
 # ดาวโหลด Mod THE SIMS 4 DEMO ภาษาไทยฟรี 2025
 ## MOD ไทยสำหรับการทดลองใช้ 
 
-<img src="https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4BusinessesHobbiesExpansionPack_Maxis_DLC_S1_2560x1440-287985180a6098368c745d852a1e6127?resize=1&w=480&h=270&quality=medium"  width="480" height="270">
+<img src="https://image.api.playstation.com/vulcan/ap/rnd/202508/2014/81f68e9d901ff15e3d295697d42d70d6e6256a908f49b248.jpg"  width="480" height="270">
 
 ### เงื่อนไขการใช้งาน
 - ใช้งานได้ฟรี ส่วนการแปลตามภาคที่ออกในปี 2025
@@ -12,16 +12,17 @@
 
 | DETAILE   | THE SIMS 4 Download MOD |
 | ------------- | ------------- |
-|curseforge MOD ภาษาไทย   | [curseforge simscolony](https://www.curseforge.com/sims4/mods/simscolony-translation-thai-localization-thailand) |
+|curseforge MOD ภาษาไทย   | [สอนติดตั้ง MOD THAI THE SIMS 4 แบบฟรี!](https://simscolony.com/easy-install-mod-thai-for-the-sims-4-with-curseforge-app/) |
 |รวมแปลไทย Wicked 18+  NISA และอื่นๆ > | [รวมแปลไทย ดาวโหลดแยกได้ทันที](https://simscolony.com/game/the-sims/cc-shopping/)|
 
-ดาวโหลดโปรแกรมได้ที่ https://download.curseforge.com/
+ดาวโหลดโปรแกรมได้ที่ [สอนติดตั้ง MOD THAI THE SIMS 4 แบบฟรี!](https://simscolony.com/easy-install-mod-thai-for-the-sims-4-with-curseforge-app/) |
 ![curseforge_Thesims](https://thesims4.curseforge.com/assets/fb2.jpg)
 
 
 # หากพึงพอใจในผลงานสามารถสนับสนุนผ่านเพจหรือหน้าเว็บได้ทันที
 
 สนับสนุนทันที 
+- สนับสนุนแปลครบ 100% [patreon](https://www.patreon.com/SIMSCOLONY) |
 -[รายละเอียดเพิ่มเติม](https://simscolony.github.io/Recent.html)
 
 
@@ -144,7 +145,8 @@
 |86.Restoration Workshop |99%|
 |87.Golden Years |99%|
 |88.Kitchen Clutter Kits |99%|
-
+|89.Enchanted by Nature |99%|
+|90.Adventure Awaits |99%|
 
 
 ![TS4THDEMO](https://i.imgur.com/Cb0ETW7.jpg)
@@ -157,6 +159,7 @@
 ![TS4THDEMO](https://i.imgur.com/1FqiZmm.jpg)
 ![TS4THDEMO](https://i.imgur.com/vfTgFyH.jpg)
 ![TS4THDEMO](https://i.imgur.com/7dFetNb.jpg)
+
 
 
 # สนับสนุนแบบเต็ม https://www.facebook.com/SimsColony/
